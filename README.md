@@ -1,3 +1,1 @@
-# notes-app-back-end
-
-Notes App for Dicoding exercise
+# Notes App for Dicoding exercise
